@@ -1,0 +1,46 @@
+/* egy másik feladat 
+#box-01 {
+  background-color: hsla(60, 100%, 60%, .85);
+  width: 9.375rem;
+}
+
+#box-02 {
+  background-color: hsla(84, 84%, 56%, .85);
+  width: 9.375;
+  padding: 1.56rem;
+  border: 1.56rem solid black;
+  margin: 1.56rem;
+  box-sizing: border-box;
+}*/
+
+/* egy másik feladat
+#box-01 {
+  background-color: hsla(60, 100%, 60%, .85);
+  width: 50%;
+}
+
+#box-02 {
+  background-color: hsla(84, 84%, 56%, .85);
+  width: 50%;
+  padding: 1.56rem;
+  border: 1.56rem solid black;
+}
+
+div {
+  float: left;
+  box-sizing: border-box;
+}*/
+
+#box-01 {
+  background-color: hsla(60, 100%, 60%, .85);
+  width: 49%;
+}
+
+#box-02 {
+  background-color: hsla(84, 84%, 56%, .85);
+  width: 49%;
+}
+
+div {
+  display: inline-block;
+}

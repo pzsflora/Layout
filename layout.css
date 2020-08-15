@@ -1,0 +1,17 @@
+p, .text_link {
+    width: 3%;
+    padding: 2.5rem;
+    border: 3px solid #c74f78;
+    margin: 1.875rem;
+    display: inline-block;
+}
+
+
+.others {
+  font-size: 2rem;
+  text-decoration: none;
+  color: brown;
+  display: block;
+  margin: 1rem;
+  font-weight: bold;
+}
